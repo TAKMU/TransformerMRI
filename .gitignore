@@ -1,2 +1,5 @@
 data/
-.vscode/
+./.vscode/
+finished.sh
+__pycache__
+convert_time.txt
